@@ -128,7 +128,3 @@ Edit the script to customize:
 - **Script naming**: `.sh` extension is stripped when linking (e.g., `myscript.sh` → `~/bin/myscript`)
 - **SSH safety**: Only `config` and `authorized_keys` are synced — private keys are never touched
 - **WSL**: Package list collection is automatically disabled in WSL environments
-
-## License
-
-Public domain — use and modify freely.
